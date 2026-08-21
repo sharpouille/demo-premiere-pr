@@ -2,7 +2,7 @@
 
 Ceci est un petit depot de demo pour s'entrainer au flux de pull request sur GitHub.
 
-Il contient une smal calculatrice en Python avec ses tests.
+Il contient une petite calculatrice en Python avec ses tests.
 
 ## Utilisation
 
